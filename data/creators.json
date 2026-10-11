@@ -1,0 +1,4 @@
+[
+  { "id": "ana", "name": "Ana Souza", "coupons": ["ANA10"], "utmCampaigns": ["ana-souza"] },
+  { "id": "bruno", "name": "Bruno Lima", "coupons": ["BRUNO15"], "utmCampaigns": ["bruno-lima"] }
+]
